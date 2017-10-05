@@ -1,0 +1,1 @@
+wsgen -verbose -d ..\java -keep -cp ..\..\..\target\classes com.northcutt.product.ws.ProductServiceImp
